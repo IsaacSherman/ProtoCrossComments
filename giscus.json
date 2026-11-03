@@ -1,0 +1,10 @@
+{
+  "originsRegex": [
+    "^http://(localhost|127\\\\.0\\\\.0\\\\.1)(:[0-9]+)?$"
+  ],
+  "origins": [
+    "https://protocross.dev",
+    "https://protocross-site.sherman1337.workers.dev"
+  ],
+  "defaultCommentOrder": "oldest"
+}
